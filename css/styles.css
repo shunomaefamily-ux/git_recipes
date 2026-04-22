@@ -56,6 +56,12 @@ h2{
   border-left: 4px solid #d97706;
 }
 
+/* ========== images ========== */
+recipe-image{
+max-width: 300px;
+height: auto;
+}
+
 /* ========== lists ========== */
 ul, ol{
   margin: 10px 0 0;
