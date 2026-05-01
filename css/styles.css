@@ -57,7 +57,7 @@ h2{
 }
 
 /* ========== images ========== */
-recipe-image{
+.recipe-image{
 max-width: 300px;
 height: auto;
 }
